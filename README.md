@@ -2,11 +2,14 @@
 
 Game Description
 *All features may not be fully implemented/may differ slightly from description
+
 Aesthetics and Scenario: Describe the player’s emotions or other aesthetic objectives of 
 your game. Also describe the context or setting in which the imaginary world of the game exists.
+
 Aesthetic Objectives: Challenge
 Setting: 2D Virtual tabletop
- Context: Cabo is a 2D multiplayer card game with challenging aesthetics. This memory-based game requires players to remember not only their own cards, but also their enemies’ cards (once discovered) and the scores/actions associated with those cards. 
+Context: Cabo is a 2D multiplayer card game with challenging aesthetics. This memory-based game requires players to remember not only their own cards, but also their enemies’ cards (once discovered) and the scores/actions associated with those cards. 
+
 Preliminary Dynamics: Describe the activities and processes that occur in the game.
 Collection, Trading
 Describe the ones above with card actions/in-game attributes
