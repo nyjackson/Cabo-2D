@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ae8cde8f8ffc6cf45ae80c1866451d2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deck: {fileID: 4821263570317522419, guid: 8dd2cbd79f8373f4e9743a98c1e76f6c, type: 3}
+  - pile: {fileID: 8130155333394013468, guid: f8bb493a968a779458052d6105e9fa3c, type: 3}
+  - playerArea: {fileID: 3320440692055842288, guid: 40a447d4343309d468848a67cad20d2c,
+      type: 3}
+  - enemyArea: {fileID: 6415970369726936577, guid: 8e03cdd531c1b0c429602c52bc295167,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
