@@ -26,7 +26,7 @@ Preliminary Mechanics: Describe each of the following, as applicable: goals of t
 actions the player can take to achieve game goals; resources available to the player; 
 impediments to achieving game goals
 
-	Goals:
+Goals:
 Call “Cabo” correctly (with the least amount of card points) and attain the -5 additional points. 
 Lose all or most of your cards by flipping them out. 	
 Avoid taking additional cards/flipping correctly
